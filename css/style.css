@@ -1,0 +1,74 @@
+
+.vLine {
+    border-right: 1px solid rgb(199, 198, 198);
+    max-height: 95vh;
+    
+    
+}
+
+.scrollTogg {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.scrollTogg::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollTogg1 {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.scrollTogg1::-webkit-scrollbar {
+    display: none;
+}
+
+
+#profileName {
+    text-align: center;
+    color: rgb(105, 105, 105);
+    font-weight: bold;
+}
+
+.icons {
+    width: 65px;
+    
+    
+}
+
+.icons-ex {
+    width: 65px;
+}
+
+.icons-ex:hover {
+    cursor: pointer;
+}
+
+.profileheading {
+    font-weight:900;
+    color: navy;
+}
+
+.profile-text ul{
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#profilePic {
+    
+    width: 250px;
+}
+
+body {
+    color:rgb(105, 105, 105);   
+}
+
+#xpCol {
+    max-height: 95vh;
+    
+}
+
